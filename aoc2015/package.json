@@ -23,6 +23,7 @@
     "node": ">=16.13.0"
   },
   "dependencies": {
-    "esbuild": "^0.25.0"
+    "esbuild": "^0.25.0",
+    "js-md5": "^0.8.3"
   }
 }
