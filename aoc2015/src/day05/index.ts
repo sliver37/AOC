@@ -60,16 +60,16 @@ run({
         expected: 1,
       },
       {
-        input: `uurcxstgmygtbstg`,
-        expected: 0,
+        input: `uurcxyxytgmygtbstg`,
+        expected: 1,
       },
       {
-        input: `ieodomkazucvgmuy`,
-        expected: 0,
+        input: `aaadomkazucvgmaa`,
+        expected: 1,
       },
     ],
     solution: part2,
   },
   trimTestInputs: true,
-  onlyTests: true,
+  onlyTests: false,
 })

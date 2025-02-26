@@ -11,12 +11,12 @@
 
 <!--SOLUTIONS-->
 
-[![Day](https://badgen.net/badge/01/%E2%98%85%E2%98%85/green)](src/day01)
+![Day](https://badgen.net/badge/01/%E2%98%86%E2%98%86/gray)
 [![Day](https://badgen.net/badge/02/%E2%98%85%E2%98%85/green)](src/day02)
 [![Day](https://badgen.net/badge/03/%E2%98%85%E2%98%85/green)](src/day03)
 [![Day](https://badgen.net/badge/04/%E2%98%85%E2%98%85/green)](src/day04)
 [![Day](https://badgen.net/badge/05/%E2%98%85%E2%98%85/green)](src/day05)
-![Day](https://badgen.net/badge/06/%E2%98%86%E2%98%86/gray)
+[![Day](https://badgen.net/badge/06/%E2%98%85%E2%98%85/green)](src/day06)
 ![Day](https://badgen.net/badge/07/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/08/%E2%98%86%E2%98%86/gray)
 ![Day](https://badgen.net/badge/09/%E2%98%86%E2%98%86/gray)
@@ -69,9 +69,9 @@ pnpm start 1
 
 ```
 Day 01
-Time part 1: 1.093ms
-Time part 2: 0.994ms
-Both parts: 2.087ms
+Time part 1: -
+Time part 2: -
+Both parts: -
 ```
 
 ```
@@ -97,16 +97,16 @@ Both parts: 1541.927ms
 
 ```
 Day 05
-Time part 1: 24.351ms
-Time part 2: 0.792ms
-Both parts: 25.143ms
+Time part 1: 0.715ms
+Time part 2: 0.775ms
+Both parts: 1.49ms
 ```
 
 ```
 Day 06
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 94.793ms
+Time part 2: 114.85ms
+Both parts: 209.644ms
 ```
 
 ```
@@ -243,8 +243,8 @@ Both parts: -
 ```
 
 ```
-Total stars: 8/50
-Total time: 1572.879ms
+Total stars: 10/50
+Total time: 1758.869ms
 ```
 
 <!--/RESULTS-->
